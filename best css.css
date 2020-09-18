@@ -1,0 +1,510 @@
+body {
+  background-color:#121212;
+  color:#c5c6c7;
+  background-image: url("blackbg.png");
+  background-position: center;
+  background-size: cover;
+}
+div {
+  text-align: cente;
+}
+nav {
+display:flex;
+background-image:url('blackbg2.png');
+box-sizing:border-box;
+/*border: 1px solid #000000;*/
+color:#06425C;
+/*background-color:#61892f;
+background:linear-gradient(#FAFAF7 0%,#FAFAF7 100%);*/
+overflow: auto;
+padding-left:0%;
+width:100vw;
+position:fixed;
+margin-top:-1%;
+margin-left:-1%;
+}
+
+nav a {
+/*box-sizing:border-box;*/
+display:inline-block;
+height:auto;
+width:30em;
+color: #FFFFFF;
+/*background-color:#000000;*/
+text-decoration: none;
+margin:1% 1% 1% 0%;
+padding:1% 1%;
+border-radius: 25px;
+text-align: center;
+}
+p:hover {
+color:#ffe400;
+}
+#impdet {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+  /*background-color:#ffe400;
+  color:#000000;*/
+}
+#govcer {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+/*  background-color:#952FDC;
+  color:#000000;*/
+}
+#ssc {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:32em;
+  margin:2% 4%;
+  float:left;
+  /*background-color:#C40000;*/
+}
+#polycet {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:10em;
+  margin:2% 4%;
+  float:left;
+  /*background-color:#00ffff;
+  color:#000000;*/
+}
+#inter {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:32em;
+  margin:2% 4%;
+  /*background-color:#1f6521;*/
+}
+#ape {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:20em;
+  margin:2% 4%;
+  float:left;
+/*  background-color:#ff652f;
+  color:#000000;*/
+}
+#tse {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:20em;
+  margin:2% 4%;
+}
+#jee {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:88vw;
+  height:25em;
+  margin:2% 4%;
+}
+#adv {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:88vw;
+  height:10em;
+  margin:2% 4%;
+}
+#kvpy {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:10em;
+  margin:2% 4%;
+/*  background-color:#802bb1;*/
+}
+#ncc {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#bank {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+ul {
+  padding-left:10%;
+}
+ul li{
+  display:inline-block;
+  font-size:150%;
+  margin-left:3%;
+  margin-right:3%;
+  padding-left:-3%;
+}
+footer {
+  display:flex;
+  box-sizing:border-box;
+  /*border: 1px solid #06425C;*/
+  color:#c5c6c7;
+/*  background-color:#61892f;
+  background:linear-gradient(#61892f 0%,#99DB3D 100%);*/
+  overflow: auto;
+  padding-left:0%;
+  width:98vw;
+  height:auto;
+  background-image:url('blackbg2.png');
+}
+a{
+  text-decoration: none;
+}
+#flow, #cont {
+  margin:0% 15%;
+  display:block;
+  width:88vw;
+  height:20em;
+  margin:2% 4%;
+}
+/*#cont{
+  margin-left:8%;
+  margin-right:3%;
+}
+#flow {
+  margin-left:12%;
+}
+/*#img {
+  margin-left:15%;
+}*/
+img {
+  width:20vw;
+  border-radius: 50%;
+}
+#a1 {
+  color:#00acee;
+  color:#c5c6c7;
+}
+
+#a2 {
+  color:#000000;
+  color:#c5c6c7
+  /*color:#0E76A8;*/
+}
+
+#a3 {
+  color:#000000;
+  color:#c5c6c7
+}
+
+#a4 {
+  color:#000000;
+  color:#c5c6c7
+}
+
+#a5{
+  color:#000000;
+  color:#c5c6c7
+}
+
+#l1, #l2, #l3 {
+  color:#000000;
+  color:#c5c6c7
+}
+#python {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:19em;
+  margin:2% 4%;
+  float:left;
+}
+#google {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:21em;
+  margin:2% 4%;
+  float:left;
+}
+#git {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:10em;
+  margin:2% 4%;
+  float:left;
+}
+#wdfe {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:19em;
+  margin:2% 4%;
+}
+#wafe {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:21em;
+  margin:2% 4%;
+}
+#upsc {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:10em;
+  margin:2% 4%;
+}
+nav a:hover{
+  color:#ffe400;
+}
+h1 {
+  color:#ffe400;
+}
+#h11 {
+  margin-top:7%;
+  font-size:250%;
+}
+#govt {
+  padding-top:4%;
+}
+#academics {
+  padding-top:4%;
+}
+#achievements {
+  padding-top:4%;
+}
+#some {
+  padding-top:4%;
+}
+#more {
+  padding-top:4%;
+}
+#svu {
+  padding-top:4%;
+}
+#amrita {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#vit {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#sat {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#manipal {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#amity {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#srm {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#cvrh {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#mrec {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#det {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#adm {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#cat1 {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#cat2 {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#abacus {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:15em;
+  margin:2% 4%;
+  float:left;
+}
+#ascent {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:17em;
+  margin:2% 4%;
+  float:left;
+}
+#lns {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#drp {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+  float:left;
+}
+#srss {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:16em;
+  margin:2% 4%;
+  float:left;
+}
+#jvv {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:15em;
+  margin:2% 4%;
+}
+#schl {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:17em;
+  margin:2% 4%;
+}
+#arduino {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#avopa {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:12em;
+  margin:2% 4%;
+}
+#part {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:40vw;
+  height:16em;
+  margin:2% 4%;
+}
+/*.an:hover {
+  animation-name:anima;
+  animation-duration:2s;
+  animation-iteration-count:infinite;
+}*/
+@keyframes anima{
+   0%   {transform:scale(0.5);}
+   50%  {transform:scale(1.2);}
+   100% {transform:scale(1.0);}
+}
+#a1:hover {
+  color:#00acee;
+  font-size: 105%;
+}
+#a2:hover {
+  color:#0e76a8;
+font-size: 105%;
+}
+#a3:hover {
+  display: inline-block;
+/*width: 250px;
+height: 250px;*/
+text-align: center;
+border-radius: 40px;
+color: #fff;
+/*font-size: 220px;
+line-height: 250px;*/
+/*vertical-align: middle;*/
+background: #d6249f;
+background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+/*box-shadow: 0px 3px 10px rgba(0,0,0,.25*/
+   /*background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+   box-shadow: 0px 3px 10px rgba(0,0,0,.25);*/
+font-size: 105%;
+}
+#a4:hover {
+  color:#3b5998;
+font-size: 105%;
+}
+#a5:hover {
+  color:#fffc00;
+font-size: 105%;
+}
+#smmr {
+  border:1px solid #ffffff;
+  display:inline-block;
+  width:88vw;
+  height:15em;
+  margin:2% 4%;
+}
+#img {
+  display:none;
+}
