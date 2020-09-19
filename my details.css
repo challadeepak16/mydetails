@@ -414,14 +414,14 @@ footer {
   #manipal {
     height:14em;
   }
-  nav {
+  /*nav {
     display:none;
-  }
+  }*/
   #cont, #flow {
     position:absolute;
-    margin-left:20%;
+    margin-left:10%;
   }
   #flow {
-    margin-top:13em;
+    margin-top:15em;
   }
 }
