@@ -419,8 +419,9 @@ footer {
   }
   #cont, #flow {
     position:absolute;
+    margin-left:20%;
   }
   #flow {
-    margin-top:10em;
+    margin-top:13em;
   }
 }
