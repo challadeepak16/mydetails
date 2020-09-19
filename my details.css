@@ -352,7 +352,7 @@ footer {
     height:14em;
   }
   #govcer {
-    height:16em;
+    height:15em;
   }
   #ssc {
     height:20em;
@@ -416,5 +416,10 @@ footer {
   }
   nav {
     display:none;
+  }
+  #cont, #flow {
+    display :block;
+    width:80vw;
+    height:auto;
   }
 }
