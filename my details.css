@@ -335,3 +335,89 @@ footer {
 @media screen and (max-width:605px){
 
 }
+@media screen and (max-width:558px){
+  #bank {
+    height:13em;
+  }
+  #jee {
+    height:30em;
+  }
+  #google {
+    height:24em;
+  }
+  #kvpy {
+    height:13em;
+  }
+  #cvrh {
+    height:13em;
+  }
+  #mrec{
+    height:16em;
+  }
+  #impdet {
+    height:14em;
+  }
+  #govcer {
+    height:16em;
+  }
+  #ssc {
+    height:20em;
+  }
+  #inter {
+    height:40em;
+  }
+  #ape{
+    height:24em;
+  }
+  #tse {
+    height:21em;
+  }
+  #det{
+    height:14em;
+    }
+  #python {
+    height:18em;
+  }
+  #wdfe {
+    height:21em;
+  }
+  #cat2{
+    height:14em;
+  }
+  #abacus {
+    height:18em;
+  }
+  #schl {
+    height:19em;
+  }
+  #part {
+    height:20em;
+  }
+  #srm {
+    height:13em;
+  }
+  #smmr {
+    height:14em;
+  }
+  #polycet {
+    height:13em;
+  }
+  #adv {
+    height:14em;
+  }
+  #adm {
+    height:14em;
+  }
+  #wafe {
+    height:11em;
+  }
+  #cat1 {
+    height:14em;
+  }
+  #amrita {
+    height:14em;
+  }
+  #manipal {
+    height:14em;
+  }
+}
