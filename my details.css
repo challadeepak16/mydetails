@@ -420,4 +420,7 @@ footer {
   #manipal {
     height:14em;
   }
+  nav {
+    display:none;
+  }
 }
