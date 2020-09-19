@@ -414,9 +414,9 @@ footer {
   #manipal {
     height:14em;
   }
-  nav {
+  /*nav {
     display:none;
-  }
+  }*/
   #cont, #flow {
     position:absolute;
     margin-left:10%;
@@ -425,7 +425,7 @@ footer {
     margin-top:15em;
   }
   #a1, #a2, #a3, #a4, #a5{
-    margin-left:150%;
+    margin-left:135%;
   }
   #nav1, #cntct {
     display:none;
