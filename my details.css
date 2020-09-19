@@ -414,9 +414,9 @@ footer {
   #manipal {
     height:14em;
   }
-  nav {
+  /*nav {
     display:none;
-  }
+  }*/
   #cont, #flow {
     display :block;
     width:80vw;
